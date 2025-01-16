@@ -21,7 +21,7 @@
 
 📫 **Let’s Connect:**  
 - 💌 [Email me](mailto:dimidroupa.react@gmail.com)  
-- 💻 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dmytro-pashchenko-7a94092b1/))  
+- 💻 [LinkedIn](https://www.linkedin.com/in/dmytro-pashchenko-7a94092b1/)  
 
 🚀 **Let’s build something amazing together!**  
 
