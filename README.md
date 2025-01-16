@@ -1,5 +1,30 @@
-# 💫 About Me:
-# 👋 Hi there! I'm Dmytro Pashchenko  <br><br>🌟 **Who am I?**  <br>- 👨‍💻 Full-Stack Developer with a passion for creating modern and functional web applications.  <br>- 🌍 Based in Ukraine, working globally to help businesses thrive online.  <br>- 🚀 Always learning and exploring the latest technologies in web development.  <br><br>📚 **What I do:**  <br>- 🖌️ Design and develop complex, visually stunning websites.  <br>- ⚙️ Build scalable back-end solutions using Node.js and Next.js.  <br>- 🎨 Craft engaging user interfaces with React, Tailwind CSS, and styled-components.  <br>- 🔗 Integrate blockchain features like NFTs and crypto wallets.  <br><br>🛠️ **Tech Stack:**  <br>- **Front-end:** React, Next.js, Tailwind CSS, GSAP  <br>- **Back-end:** Node.js, Firebase, MongoDB  <br>- **Other Tools:** Git, Figma, RTK Query, ThirdWeb  <br><br>💡 **Fun Facts:**  <br>- 🎮 Gamer at heart, coding is my ultimate "next level"!  <br>- 🌟 I love collaborating with small businesses to create award-winning websites.  <br>- ✉️ Offering **12 months of free support** for all my projects.  <br><br>📫 **Let’s connect:**  <br>- 💼 [Portfolio](#)  <br>- 💌 [Email me](mailto:your-email@example.com)  <br>- 🐦 [Twitter](https://twitter.com/your-handle)  <br>- 💻 [LinkedIn](https://linkedin.com/in/your-profile)  <br><br>🚀 **Let’s build something amazing together!**  <br>
+# 👋 Hi there! I'm Dmytro Pashchenko  
+
+🌟 **About Me:**  
+- 👨‍💻 Full-Stack Developer passionate about modern web applications.  
+- 🌍 Based in Ukraine, working with clients worldwide.  
+- 🚀 Always exploring the latest in web technologies.  
+
+📚 **What I Do:**  
+- 🖌️ Create visually stunning, functional websites.  
+- ⚙️ Develop scalable back-end solutions with Node.js and Next.js.  
+- 🎨 Design engaging UIs using React, Tailwind CSS, and GSAP.  
+- 🔗 Integrate blockchain features like NFTs and crypto wallets.  
+
+🛠️ **Tech Stack:**  
+- **Front-end:** React, Next.js, Tailwind CSS  
+- **Back-end:** Node.js, Firebase, MongoDB  
+- **Tools:** Git, Figma, RTK Query  
+
+💡 **Fun Fact:**  
+🎮 Gamer at heart—coding is my ultimate "next level"!  
+
+📫 **Let’s Connect:**  
+- 💌 [Email me](mailto:dimidroupa.react@gmail.com)  
+- 💻 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/dmytro-pashchenko-7a94092b1/))  
+
+🚀 **Let’s build something amazing together!**  
+
 
 
 ## 🌐 Socials:
