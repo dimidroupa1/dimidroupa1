@@ -1,29 +1,29 @@
 # 👋 Hi there! I'm Dmytro Pashchenko  
 
-## 🌟 **About Me:**  
+### 🌟 **About Me:**  
 - 👨‍💻 Full-Stack Developer passionate about modern web applications.  
 - 🌍 Based in Ukraine, working with clients worldwide.  
 - 🚀 Always exploring the latest in web technologies.  
 
-📚 **What I Do:**  
+### 📚 **What I Do:**  
 - 🖌️ Create visually stunning, functional websites.  
 - ⚙️ Develop scalable back-end solutions with Node.js and Next.js.  
 - 🎨 Design engaging UIs using React, Tailwind CSS etc..  
 - 🔗 Integrate blockchain features like NFTs and crypto wallets.  
 
-🛠️ **Tech Stack:**  
+### 🛠️ **Tech Stack:**  
 - **Front-end:** React, Next.js, Tailwind CSS  
 - **Back-end:** Node.js, Express.js, MongoDB, Supabase  
 - **Tools:** Git, Figma
 
-💡 **Fun Fact:**  
-🎮 Gamer at heart—coding is my ultimate "next level"!  
+### 💡 **Fun Fact:**  
+- 🎮 Gamer at heart—coding is my ultimate "next level"!  
 
-📫 **Let’s Connect:**  
+### 📫 **Let’s Connect:**  
 - 💌 [Email me](mailto:dimidroupa.react@gmail.com)  
 - 💻 [LinkedIn](https://www.linkedin.com/in/dmytro-pashchenko-7a94092b1/)  
 
-🚀 **Let’s build something amazing together!**  
+### 🚀 **Let’s build something amazing together!**  
 
 
 
