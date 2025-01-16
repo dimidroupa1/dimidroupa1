@@ -8,13 +8,13 @@
 📚 **What I Do:**  
 - 🖌️ Create visually stunning, functional websites.  
 - ⚙️ Develop scalable back-end solutions with Node.js and Next.js.  
-- 🎨 Design engaging UIs using React, Tailwind CSS, and GSAP.  
+- 🎨 Design engaging UIs using React, Tailwind CSS etc..  
 - 🔗 Integrate blockchain features like NFTs and crypto wallets.  
 
 🛠️ **Tech Stack:**  
 - **Front-end:** React, Next.js, Tailwind CSS  
-- **Back-end:** Node.js, Firebase, MongoDB  
-- **Tools:** Git, Figma, RTK Query  
+- **Back-end:** Node.js, Express.js, MongoDB, Supabase  
+- **Tools:** Git, Figma
 
 💡 **Fun Fact:**  
 🎮 Gamer at heart—coding is my ultimate "next level"!  
