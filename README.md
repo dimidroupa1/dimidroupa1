@@ -2,7 +2,7 @@
 
 ### 🌟 **About Me:**  
 - 👨‍💻 Full-Stack Developer passionate about modern web applications.  
-- 🌍 Based in Ukraine, working with clients worldwide.  
+- 🌍 Based in Europe, working with clients worldwide.  
 - 🚀 Always exploring the latest in web technologies.  
 
 ### 📚 **What I Do:**  
